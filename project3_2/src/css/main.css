@@ -1,0 +1,76 @@
+body {
+  font-family: 'Tahoma', sans-serif;
+}
+.button {
+  padding: 0.8rem 1.5rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  background-color: #f05a22;
+  border: 2px solid #f05a22;
+  border-radius: 0.6rem;
+  color: white;
+}
+.header {
+  margin-top: 70px;
+  margin-bottom: 90px;
+}
+.header-img {
+  margin-bottom: 2rem;
+}
+.header-text-title {
+  font-weight: 900;
+  font-size: 3rem;
+  padding-bottom: 1rem;
+}
+.header-text-subtitle {
+  margin-bottom: 2rem;
+  font-size: 2rem;
+}
+.header-text-main {
+  font-size: 1.5rem;
+}
+.header-text-price {
+  font-size: 2rem;
+  font-weight: 700;
+}
+.header-text-buttons {
+  margin-top: 2rem;
+}
+.header-text-buttons .button {
+  margin-right: 2rem;
+  margin-bottom: 1rem;
+}
+.header-text-buttons .button-o {
+  color: #f05a22;
+  background-color: white;
+}
+.features {
+  margin-top: 87px;
+  margin-bottom: 100px;
+  background-color: #f2f2f2;
+  text-align: center;
+  padding-top: 3rem;
+}
+.features-img {
+  margin-top: 5rem;
+  margin-bottom: 1rem;
+  min-height: 55px;
+}
+.features-text {
+  font-size: 1rem;
+  font-weight: 600;
+}
+.section-title {
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+.down-title {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 5rem;
+}
+.down-fotos {
+  padding: 1rem;
+  text-align: center;
+}

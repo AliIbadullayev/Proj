@@ -1,0 +1,63 @@
+.header{
+	font-size: 24px;
+	line-height: 1.5;
+	margin:40px;
+}
+.header span{
+	display: block;
+}
+
+.form .video{
+	display: inline-block;
+}
+
+.form-header{
+font-size: 20px;
+font-weight: 900;
+}
+
+.form{
+	border: 5px solid blue;
+	padding: 18px;
+	height: 309px;
+
+}
+.form input{
+	margin: 10px 0;
+}
+
+.form button{
+	margin: 20px 0 25px 0;
+	background-color: blue;
+}
+
+.form-header{
+	margin-bottom: 30px;
+}
+
+.section{
+	padding: 30px;
+}
+
+.section-header{
+	margin-top: 45px;
+	font-size: 20px;
+}
+
+.feature-block{
+	margin-top: 40px;
+
+}
+.feature p{
+	margin-top:20px;
+}
+.btn-feature{
+	margin-top: 40px;
+}
+
+.video{
+	margin-bottom: 30px;
+}
+.feature .row{
+	margin: 40px 0 20px 0;
+} 
